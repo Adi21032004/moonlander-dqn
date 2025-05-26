@@ -41,7 +41,7 @@ Epsilon-greedy exploration strategy
 
 Clone the repository:
 
-git clone https://github.com/yourusername/moonlander-dqn.git
+git clone https://github.com/Adi21032004/moonlander-dqn.git
 cd moonlander-dqn
 
 Install dependencies:
